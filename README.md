@@ -2,6 +2,14 @@
 
 This project contains my solution to the Hurdle 3 challenge in Reeborg's World using Python.
 
+## 🎥 Demo
+
+![Hurdle Demo](demo.gif)
+
+## 📸 Screenshot
+
+![Project Screenshot](screenshot.png)
+
 ## 📌 About the Challenge
 The goal is to help the robot jump over hurdles and reach the finish line.
 
@@ -17,10 +25,6 @@ The goal is to help the robot jump over hurdles and reach the finish line.
 
 ## 🚀 Technologies Used
 - Python
-
-## 🎥 Demo
-
-![Hurdle Demo](demo.gif)
 
 ---
 👩‍💻 Created by Fateme Heydari
