@@ -18,5 +18,9 @@ The goal is to help the robot jump over hurdles and reach the finish line.
 ## 🚀 Technologies Used
 - Python
 
+## 🎥 Demo
+
+![Hurdle Demo](demo.gif)
+
 ---
 👩‍💻 Created by Fateme Heydari
